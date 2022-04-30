@@ -1,8 +1,8 @@
-import treinoalgoritmo.beeCrowdTreino1117
+import treinoalgoritmo.beeCrowdTreino1131
 
 fun main() {
 
     println("Treino beecrowd!")
 
-    beeCrowdTreino1117()
 }
+
